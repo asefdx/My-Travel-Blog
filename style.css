@@ -4,28 +4,41 @@ h1{height: 600px;
     background-image:url(cox.jpg);
     background-size: cover;
     border: 20px solid black;
-    margin: 20px;
+    
+    text-align: center;
+    box-shadow: 10px  violet;
+
 }
 .blog{
 background-color:yellow;
 color: black;
 border: 20px solid tomato;
-margin: 20px;
+
 border-radius: 10px;
+padding-inline-start: 10px;
+box-shadow: 10px  violet;
 }
 #as{
 background-color:yellow;
 color: black;
 border: 20px solid tomato;
-margin: 20px;
+
 border-radius: 10px;
+padding: 10px;
+box-shadow: 10px  violet;
 
 }
 .list{
     background-color:brown;
     color:black ;
+    border: 10px solid tomato;
+    padding: 10px;
+box-shadow: 10px  violet;
 }
 .ab
 {
     background-color: brown;
+}
+*{
+    margin: 10px;
 }
